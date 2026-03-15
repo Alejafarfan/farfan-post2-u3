@@ -44,10 +44,10 @@ El proyecto se abrirá automáticamente en el navegador.
 ## Visualización del dashboard
 
 ### Vista en escritorio (1280px)
-
+![alt text](image-1.png)
 
 ### Vista en móvil (768px o menor)
-
+![alt text](image.png)
 
 ## Características del diseño
 
