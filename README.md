@@ -1,9 +1,9 @@
 
 ## Farfan-post2-u3
 
-Nombre:Alejandra Farfan Duarte
-Codigo: 02230131026
-Unidad: CSS3 Básico - Post-Contenido 2
+* Nombre:Alejandra Farfan Duarte
+* Codigo: 02230131026
+* Unidad: CSS3 Básico - Post-Contenido 2
 
 
 ## Descripción del proyecto
